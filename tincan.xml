@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Remindo Training Module</name>
+			<description lang="und">A training module for staff who input question, 4-eye or review full assessments in Remindo. </description>
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6GCgm9HXQsK" type="http://adlnet.gov/expapi/activities/objective">
+			<name lang="und">Remindo Training Module</name>
+			<description lang="und">Remindo Training Module</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6WAJpjnjUpz" type="http://adlnet.gov/expapi/activities/objective">
+			<name lang="und">Remindo Training Module</name>
+			<description lang="und">Remindo Training Module</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6rJ2dLSXl0k" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Home Page</name>
+			<description lang="und">Home Page</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/5phdq9QQqX5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Learning Path Writer</name>
+			<description lang="und">Learning Path Writer</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6Jr7HUBjRK5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Review Writer</name>
+			<description lang="und">Review Writer</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6nBht8owlXH" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Writer Duties</name>
+			<description lang="und">Writer Duties</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/64DbmuY4ey8" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Quiz</name>
+			<description lang="und">Quiz</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6gVVS5uK8p8" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Try it! </name>
+			<description lang="und">Try it! </description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6knYs2ixijp" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Welcome</name>
+			<description lang="und">Welcome</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6T4h0zHZT1D" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">HHS Question Banki</name>
+			<description lang="und">HHS Question Banki</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6ZD4C4IM0VL" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">IEL Courses</name>
+			<description lang="und">IEL Courses</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6FFxkvrUoc0" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Individual course</name>
+			<description lang="und">Individual course</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6IJH4ptVbqr" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Learning Outcome</name>
+			<description lang="und">Learning Outcome</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/5iQxhGb1avJ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Add New Question</name>
+			<description lang="und">Add New Question</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6QSlCUtPHyw" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Save</name>
+			<description lang="und">Save</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/5bjPhAT6vQL" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Encouragement</name>
+			<description lang="und">Encouragement</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/67AiEv9tlMq" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Try it! </name>
+			<description lang="und">Try it! </description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/5eCXbzUGKY8" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question stem</name>
+			<description lang="und">Question stem</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/5yZTw9FsWKR" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Fill in question</name>
+			<description lang="und">Fill in question</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/5vezwSQbixM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">select answer choice</name>
+			<description lang="und">select answer choice</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/60pWDlxNNwV" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Answer choice</name>
+			<description lang="und">Answer choice</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6FBetWZXUbz" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">filler</name>
+			<description lang="und">filler</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/5Uj3l5ncU5O" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Settings gear</name>
+			<description lang="und">Settings gear</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/5dTrQrtzpVT" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Encouragement</name>
+			<description lang="und">Encouragement</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6otLezTVGTp" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Try it! </name>
+			<description lang="und">Try it! </description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/5ttDBlldGzE" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Points</name>
+			<description lang="und">Points</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6RQ3WcaFROa" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Correct Answer </name>
+			<description lang="und">Correct Answer </description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6PyBX4v4hxO" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Feedback</name>
+			<description lang="und">Feedback</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/5zVf5vwLISn" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Text of feedback</name>
+			<description lang="und">Text of feedback</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6a2UaWPvhQT" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Save Feedback</name>
+			<description lang="und">Save Feedback</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6cyFOJSSlAK" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Save  Question</name>
+			<description lang="und">Save  Question</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/5nR0be9suwv" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Confirm</name>
+			<description lang="und">Confirm</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/60uvbmivkuH" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Select Properties tab</name>
+			<description lang="und">Select Properties tab</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6lqOtAQvz40" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Add new property</name>
+			<description lang="und">Add new property</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6WL03lUm1ea" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Drop down</name>
+			<description lang="und">Drop down</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/5kUyg8cQQqV" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Bloom's</name>
+			<description lang="und">Bloom's</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/60gDnTsf9b2" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Level</name>
+			<description lang="und">Level</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6UBCTnPelKG" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Save</name>
+			<description lang="und">Save</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6f8rmoV2kdJ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Encouragement</name>
+			<description lang="und">Encouragement</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/5vi7PJsv9G2" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Last screen Writer</name>
+			<description lang="und">Last screen Writer</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6BUmQ0lQoS7" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Learning Path 4-Eyer</name>
+			<description lang="und">Learning Path 4-Eyer</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/5W5cxIKecmI" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">4-Eyer Duties</name>
+			<description lang="und">4-Eyer Duties</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6jGgNlQopXN" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Quiz</name>
+			<description lang="und">Quiz</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/5rDfVnETzdP" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Review 4-Eyer</name>
+			<description lang="und">Review 4-Eyer</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6nU3JtR6cER" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">These tasks for reviewing a question are not in the correct sequence. Rearrange them to indicate the correct sequence.</name>
+			<description lang="und">These tasks for reviewing a question are not in the correct sequence. Rearrange them to indicate the correct sequence.</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6nU3JtR6cER/6jpqblQ4xIP" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">These tasks for reviewing a question are not in the correct sequence. Rearrange them to indicate the correct sequence.</name>
+			<description lang="und">These tasks for reviewing a question are not in the correct sequence. Rearrange them to indicate the correct sequence.</description>
+			<interactionType>sequencing</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5wSSeaCm6cM</correctResponsePattern>
+				<correctResponsePattern>choice_5jLEkA1BUoU</correctResponsePattern>
+				<correctResponsePattern>choice_61A41w6AfHs</correctResponsePattern>
+				<correctResponsePattern>choice_5V15eZZe1Cg</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5wSSeaCm6cM</id>
+					<description lang="und">Ensure the question falls within the proper learning outcome.</description>
+				</component>
+				<component>
+					<id>choice_5jLEkA1BUoU</id>
+					<description lang="und">Verify the existence and accuracy of the point allocation and check that the correct answer is indicated.</description>
+				</component>
+				<component>
+					<id>choice_61A41w6AfHs</id>
+					<description lang="und">Check that feedback is given for all answer choices, indicating why it is (in)correct.</description>
+				</component>
+				<component>
+					<id>choice_5V15eZZe1Cg</id>
+					<description lang="und">Ensure that all Assessment Committee standards are met.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6faTeIUuCVQ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Which statements accurately describe your role as a writer when drafting questions in Remindo. (More than one choice may be selected.)</name>
+			<description lang="und">Which statements accurately describe your role as a writer when drafting questions in Remindo. (More than one choice may be selected.)</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6faTeIUuCVQ/69ZOrco6IW9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Which statements accurately describe your role as a writer when drafting questions in Remindo. (More than one choice may be selected.)</name>
+			<description lang="und">Which statements accurately describe your role as a writer when drafting questions in Remindo. (More than one choice may be selected.)</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5fdRKyFHoDA</correctResponsePattern>
+				<correctResponsePattern>choice_6JyiJdcQwwm</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5fdRKyFHoDA</id>
+					<description lang="und">I ensure that all items from the Assessment Committee checklist are properly found within  the exam question.</description>
+				</component>
+				<component>
+					<id>choice_6JyiJdcQwwm</id>
+					<description lang="und">I verify that the point allocation is accurate and that the correct answer is indicated for the question.</description>
+				</component>
+				<component>
+					<id>choice_6aNmEoC6Dtj</id>
+					<description lang="und">I correct anything that is wrong and pass the test on to the module chairperson. </description>
+				</component>
+				<component>
+					<id>choice_5oQtIuNKU63</id>
+					<description lang="und">I always put the correct Bloom’s taxonomy because the writer (lecturer) cannot provide this information.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/5hN3jIT2dpw" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Quiz Results</name>
+			<description lang="und">Quiz Results</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/5aacAv7in0q" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Last screen 4-Eyer</name>
+			<description lang="und">Last screen 4-Eyer</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6Rph3UA1M1e" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Learning Path Reviewer</name>
+			<description lang="und">Learning Path Reviewer</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6NN9IhH3Q1W" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Reviewer Duties</name>
+			<description lang="und">Reviewer Duties</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/5iHhbEbgczz" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Quiz</name>
+			<description lang="und">Quiz</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/5fiSGepOyYz" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Review Reviewer</name>
+			<description lang="und">Review Reviewer</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6PFGxK818kv" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">These tasks for reviewing an exam are not in the correct sequence. Rearrange them to indicate the correct sequence.</name>
+			<description lang="und">These tasks for reviewing an exam are not in the correct sequence. Rearrange them to indicate the correct sequence.</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6PFGxK818kv/5tOKSvMpPU4" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">These tasks for reviewing an exam are not in the correct sequence. Rearrange them to indicate the correct sequence.</name>
+			<description lang="und">These tasks for reviewing an exam are not in the correct sequence. Rearrange them to indicate the correct sequence.</description>
+			<interactionType>sequencing</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5knatHEZr2t</correctResponsePattern>
+				<correctResponsePattern>choice_610bMrEIPy0</correctResponsePattern>
+				<correctResponsePattern>choice_6jDEDGzOZP1</correctResponsePattern>
+				<correctResponsePattern>choice_5juUINF7r8N</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5knatHEZr2t</id>
+					<description lang="und">Enter “Courses &amp; Tests” in the Remindo scheduling environment.</description>
+				</component>
+				<component>
+					<id>choice_610bMrEIPy0</id>
+					<description lang="und">Find the exam and open with the magnifier for more details.</description>
+				</component>
+				<component>
+					<id>choice_6jDEDGzOZP1</id>
+					<description lang="und">Choose “preview the exam” to view the exam.</description>
+				</component>
+				<component>
+					<id>choice_5juUINF7r8N</id>
+					<description lang="und">Review the exam as a whole using the Assessment Committee checklist.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6JzmS45HCsm" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Which statements accurately describe your role as a reviewer when checking Remindo exams. (More than one choice may be selected.)</name>
+			<description lang="und">Which statements accurately describe your role as a reviewer when checking Remindo exams. (More than one choice may be selected.)</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6JzmS45HCsm/6rFxiRJu7CY" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Which statements accurately describe your role as a reviewer when checking Remindo exams. (More than one choice may be selected.)</name>
+			<description lang="und">Which statements accurately describe your role as a reviewer when checking Remindo exams. (More than one choice may be selected.)</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6qrpB8gHE45</correctResponsePattern>
+				<correctResponsePattern>choice_5vkEyZt3lIV</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6qrpB8gHE45</id>
+					<description lang="und">I read the exam in its entirety, paying close attention to the Assessment Committee checklist items.</description>
+				</component>
+				<component>
+					<id>choice_5vkEyZt3lIV</id>
+					<description lang="und">I can access the exam as a whole from the “Courses &amp; Tests” tab in Remindo scheduling.</description>
+				</component>
+				<component>
+					<id>choice_5ehYn8blioR</id>
+					<description lang="und">I permit my colleagues doing the 4-eye to read the test as a whole. I only check the instructions.</description>
+				</component>
+				<component>
+					<id>choice_5WZA3dg8z9h</id>
+					<description lang="und">I can directly make changes to any questions while reviewing the exam as a whole.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6ICcb3rNXGT" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Quiz Results</name>
+			<description lang="und">Quiz Results</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6eSysGfI6iw" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Last screen Reviewer</name>
+			<description lang="und">Last screen Reviewer</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6JSRXn5KIUn" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Resource Slide</name>
+			<description lang="und">Resource Slide</description>
+		</activity>
+		<activity id="urn:articulate:storyline:6Jewr6Wr0cM/6HRqCvquulK" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">HHS motto</name>
+			<description lang="und">HHS motto</description>
+		</activity>
+	</activities>
+</tincan>
